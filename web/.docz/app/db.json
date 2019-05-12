@@ -1,0 +1,53 @@
+{
+  "config": {
+    "title": "Docz Typescript",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": false,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": true
+  },
+  "props": [
+    {
+      "key": "src/App.tsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "App",
+          "methods": [],
+          "props": {}
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "key": "src/shared-components/button/__mdx__/button.mdx",
+      "value": {
+        "name": "Button",
+        "id": "9d0eb080ee1af052b0cc2201804b4620",
+        "filepath": "src/shared-components/button/__mdx__/button.mdx",
+        "link": "",
+        "slug": "src-shared-components-button-mdx-button",
+        "route": "/src-shared-components-button-mdx-button",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          }
+        ]
+      }
+    }
+  ]
+}
